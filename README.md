@@ -1,6 +1,5 @@
 # Read Me 
 
-***
 This project works on the online review data set released by Amazon and go through various analytic phases, including getting summary statistics, removing unwanted data and performing similarity analysis. 
 
 ### The whole prokect includes four stages:
