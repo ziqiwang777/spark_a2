@@ -1,7 +1,7 @@
 # Read Me 
 
 This project works on the online review data set released by Amazon and go through various analytic phases, including getting summary statistics, removing unwanted data and performing similarity analysis. 
-
+Datasets: https://s3.amazonaws.com/amazon-reviews-pds/readme.html
 ### The whole prokect includes four stages:
 * ***Stage1*** : Overall statistics
 * ***Stage2*** : Filtering Unwanted Data
